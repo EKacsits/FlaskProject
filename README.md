@@ -17,3 +17,8 @@ Basic structure for starting a Flask project with Jinja templates
 5. Create and change to a new local development branch ```git checkout b development```
 
 6. Continue working with the project as you normally would.
+
+- [ ] Add web form for users
+- [ ] Collect webform data and manipulate
+- [ ] read API data from another source
+- [ ] read database data from RDBMS
